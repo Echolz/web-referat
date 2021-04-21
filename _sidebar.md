@@ -1,0 +1,7 @@
+* [Какво е HTML5 Geolocation API](/)
+* [Демо](demo.md)  
+* [Въведение](intro.md)
+* [HTML5 vs IP Geolocation](ip-vs-html5-geolocation.md)
+* [Използване на HTML5 Geolocation](using-geolocation.md)
+* [Заключение](conclusion.md)
+* [Източници и допълнителна информация](reference.md)
